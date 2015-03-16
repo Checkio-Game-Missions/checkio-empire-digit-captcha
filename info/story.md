@@ -1,2 +1,2 @@
-DON'T SHOOT OUR TROOPS!!!
-It looks like we have problems with recognising module.
+DON'T SHOOT OUR OWN TROOPS!!!
+SIR! It looks like we have problems with the robot's recognition modules.
