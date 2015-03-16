@@ -1,5 +1,5 @@
-DON'T SHOOT OUR TROOPS!!!
-It looks like we have problems with recognising module.
+DON'T SHOOT OUR OWN TROOPS!!!
+SIR! It looks like we have problems with the robot's recognition modules.
 
 The Robots use monospaced fonts with low resolution.
 You can see the font on the picture below. This font has noise immunity to one-pixel error.
