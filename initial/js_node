@@ -29,4 +29,6 @@ if (!global.is_checking) {
         [0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0],
         [0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0],
         [0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0]]), 394, "again 394 but with noise");
+    console.log("All done? Earn rewards by using the 'Check' button!");
 }
+
